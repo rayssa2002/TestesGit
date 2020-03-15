@@ -1,2 +1,2 @@
-print ("Teste 2 dos comandos de clonagem e fusão do git via github")
+print ("Treinando git no sábado letivo")
 print("Testando os conflitos no git")
